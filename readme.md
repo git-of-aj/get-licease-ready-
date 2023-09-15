@@ -1,6 +1,7 @@
 who should attend this training - https://www.directionsonmicrosoft.com/members/get-training/who-should-attend-boot-camp
 
 PROBLEM: 
+[What is IT ASSEST MANAGEMENT?](https://www.ibm.com/blog/it-asset-management/)
 But with so many options for licensing and measurement, it’s becoming complicated for Software Asset Management (SAM) and IT Asset Management (ITAM) teams to keep track. Across sub-capacity licensing models, how do organizations make sense of their reporting, stay in compliance and avoid costly penalties?
 
 We see that SAM struggles to avoid costs and penalties related to audits. In fact, over 40% of organizations have spent $1 million+ over the past three years in audit penalties and true-ups.  Improving visibility, spending efficiently and managing effectively at scale—whether in the cloud, on-prem or via SaaS—are at the core of organizational success and delivering that value.
