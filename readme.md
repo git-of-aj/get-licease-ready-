@@ -12,6 +12,7 @@ CAL - https://www.microsoft.com/en-us/licensing/product-licensing/client-access-
 
 - Windows Server License: https://www.microsoft.com/licensing/docs/view/Windows-Server
 - billing Windows server : https://www.microsoft.com/en-us/windows-server/pricing
+- [open licence vs MPCA vs other licence types](https://www.microsoft.com/en-us/Licensing/licensing-programs/licensing-for-industries?activetab=licensing-for-industries-pivot%3aprimaryr2)
 
 1. Azure,Dynamics, Power Platform, Windows sql server - https://pulse.microsoft.com/en/skill-forward-en/na/fa2-gain-a-certificate-in-microsoft-licensing/
 2. All License Procedure and cost - https://www.microsoft.com/en-us/licensing/default
