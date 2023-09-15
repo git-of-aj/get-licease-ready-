@@ -16,6 +16,7 @@ For these teams to successfully collaborate toward that success, ITAM needs to m
 ## some ITAM TOOLS 
 1. **Microsoft Endpoint Configuration Manager (SCCM)**: This Microsoft product allows you to manage software licenses, including those for Microsoft products, within your organization.
 [SCCM list of Licence reports](https://learn.microsoft.com/en-us/mem/configmgr/core/servers/manage/list-of-reports)
+[SCCM IS PART OF INTUNE PRODUCT FAMILY.. AZURE AD E5 LICENCE GETS IT MORE HERE - ](https://learn.microsoft.com/en-us/answers/questions/672050/license-for-microsoft-system-center-configuration)
 
 3. **ServiceNow Software Asset Management**: ServiceNow offers a comprehensive IT asset management solution, including license management for Microsoft and other software.
 
