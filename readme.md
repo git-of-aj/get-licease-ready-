@@ -31,3 +31,21 @@ CAL - https://www.microsoft.com/en-us/licensing/product-licensing/client-access-
 5. **Flexera Software Asset Management**: Flexera offers a range of IT asset management solutions, including software license management for Microsoft products.
 
 6. **License Dashboard**: This software provides license management and optimization, including support for Microsoft licenses.
+-----------
+CAL, or Client Access License, is a type of software license that Microsoft uses for some of its server products. CALs are required to grant users or devices access to the server software. There are two main types of CALs:
+
+1. User CAL (Client Access License): This type of CAL licenses individual users to access the server software from any device. Each user who accesses the server needs their own User CAL.
+
+2. Device CAL: This type of CAL licenses a specific device, such as a computer or smartphone, to access the server software. Any user using that licensed device can access the server.
+
+Here are some key points to understand about CALs in Microsoft licensing:
+
+- CALs are typically used for products like Windows Server, Exchange Server, SharePoint Server, and SQL Server.
+
+- CALs are in addition to the server software licenses. You need both server licenses and the appropriate number of CALs to be compliant.
+
+- Some Microsoft server products offer both User CALs and Device CALs, giving you flexibility in how you license your users or devices.
+
+- CALs are often required for remote desktop access, file sharing, email, and other services provided by the server.
+
+- The specific licensing requirements and pricing can vary depending on the product and the version you are using, so it's essential to consult Microsoft's licensing documentation and possibly work with a Microsoft licensing expert to ensure compliance.
