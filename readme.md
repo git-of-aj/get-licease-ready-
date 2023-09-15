@@ -15,11 +15,12 @@ For these teams to successfully collaborate toward that success, ITAM needs to m
 
 ## some ITAM TOOLS 
 1. **Microsoft Endpoint Configuration Manager (SCCM)**: This Microsoft product allows you to manage software licenses, including those for Microsoft products, within your organization.
+[SCCM list of Licence reports](https://learn.microsoft.com/en-us/mem/configmgr/core/servers/manage/list-of-reports)
 
-2. **ServiceNow Software Asset Management**: ServiceNow offers a comprehensive IT asset management solution, including license management for Microsoft and other software.
+3. **ServiceNow Software Asset Management**: ServiceNow offers a comprehensive IT asset management solution, including license management for Microsoft and other software.
 
-3. **Snow Software**: Snow specializes in software asset management and can help you track and manage Microsoft licenses and compliance.
+4. **Snow Software**: Snow specializes in software asset management and can help you track and manage Microsoft licenses and compliance.
 
-4. **Flexera Software Asset Management**: Flexera offers a range of IT asset management solutions, including software license management for Microsoft products.
+5. **Flexera Software Asset Management**: Flexera offers a range of IT asset management solutions, including software license management for Microsoft products.
 
-5. **License Dashboard**: This software provides license management and optimization, including support for Microsoft licenses.
+6. **License Dashboard**: This software provides license management and optimization, including support for Microsoft licenses.
