@@ -11,6 +11,7 @@ For these teams to successfully collaborate toward that success, ITAM needs to m
 CAL - https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license#:~:text=To%20access%20this%20server%20software,the%20services%20of%20the%20server
 
 - Windows Server License: https://www.microsoft.com/licensing/docs/view/Windows-Server
+- billing Windows server : https://www.microsoft.com/en-us/windows-server/pricing
 
 1. Azure,Dynamics, Power Platform, Windows sql server - https://pulse.microsoft.com/en/skill-forward-en/na/fa2-gain-a-certificate-in-microsoft-licensing/
 2. All License Procedure and cost - https://www.microsoft.com/en-us/licensing/default
