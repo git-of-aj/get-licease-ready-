@@ -166,3 +166,6 @@
 - "You can download the handout supporting this presentation and take the associated exam on the getlicensingready.com site."
 - "Depending on your interests and needs, explore other modules and certifications available on the same site."
 - "Wishing you the very best of luck with your exam!"
+# Hybrid BEnefit
+Hybrid savings calculator - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#why-azure-hybrid-benefit
+john savil diagram - https://raw.githubusercontent.com/johnthebrit/RandomStuff/master/Whiteboards/AzureHybridBenefit.png
