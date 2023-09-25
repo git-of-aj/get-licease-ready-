@@ -169,6 +169,9 @@
 # Hybrid BEnefit
 Hybrid savings calculator - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#why-azure-hybrid-benefit
 john savil diagram - https://raw.githubusercontent.com/johnthebrit/RandomStuff/master/Whiteboards/AzureHybridBenefit.png
-
+get a vm with sql installed
+- Hybrid benefit hands on: Portal => sql vm => auto update => now it finds and adds potential VMs under hybrid benefit
+- Better approach => all future vm auto under hybrid => azure cost management => reservations + hybrid => shows sql 
 ## Azure SQL 
 Hybrid benfit Calculator - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator
+## subscription license (SL)
