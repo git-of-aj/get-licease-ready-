@@ -169,3 +169,6 @@
 # Hybrid BEnefit
 Hybrid savings calculator - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#why-azure-hybrid-benefit
 john savil diagram - https://raw.githubusercontent.com/johnthebrit/RandomStuff/master/Whiteboards/AzureHybridBenefit.png
+
+## Azure SQL 
+Hybrid benfit Calculator - https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator
