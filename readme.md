@@ -1,3 +1,7 @@
+## CSE 
+https://www.microsoft.com/en-us/licensing/licensing-programs/enterprise?activetab=enterprise-tab%3aprimaryr2
+
+
 who should attend this training - https://www.directionsonmicrosoft.com/members/get-training/who-should-attend-boot-camp
 
 PROBLEM: 
