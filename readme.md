@@ -56,3 +56,12 @@ Here are some key points to understand about CALs in Microsoft licensing:
 - CALs are often required for remote desktop access, file sharing, email, and other services provided by the server.
 
 - The specific licensing requirements and pricing can vary depending on the product and the version you are using, so it's essential to consult Microsoft's licensing documentation and possibly work with a Microsoft licensing expert to ensure compliance.
+
+## MS 900
+- Office 365 is a cloud-based service that includes apps such as Word, Excel, PowerPoint, and Outlook along with services such as Microsoft Exchange, SharePoint, Teams and OneDrive. 
+- Microsoft 365 is a cloud-based service that includes the same Office apps and services, plus Windows, and Enterprise Mobility + Security.
+- EMS: Entra + Security
+- Microsoft 365 subscription plans for personal use, small businesses, large enterprises, schools, and more
+- Sign up for the Microsoft 365 Developer Program to explore Microsoft 365
+- Configuration Manager is an on-premises management solution to manage desktops, Windows servers, and laptops that are on your network or internet-based.
+- Microsoft Intune is a cloud-based endpoint management solution that manages user access to organizational resources and simplifies app and device management across your many devices, including mobile devices, desktop computers, and virtual endpoints
