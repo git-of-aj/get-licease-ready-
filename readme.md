@@ -65,3 +65,4 @@ Here are some key points to understand about CALs in Microsoft licensing:
 - Sign up for the Microsoft 365 Developer Program to explore Microsoft 365
 - Configuration Manager is an on-premises management solution to manage desktops, Windows servers, and laptops that are on your network or internet-based.
 - Microsoft Intune is a cloud-based endpoint management solution that manages user access to organizational resources and simplifies app and device management across your many devices, including mobile devices, desktop computers, and virtual endpoints
+- Azure Virtual Desktop supports all current versions of Windows, including Windows 10 Enterprise (single session), EVD (multi-session) and Server 2012/2016/2019. Windows 365 cloud PCs only support Windows 10 Enterprise (single session) since they are dedicated, non-multi-user desktops.
